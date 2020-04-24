@@ -1,0 +1,31 @@
+[
+{
+"productcatagory": "Electronics",
+"itemNo": 1,
+"catagory":"TV",
+"productname":"sony",
+"condition":"new",
+"price":500
+},
+{
+"catagory":"phone",
+"itemNO":2,
+"productname":"samsung",
+"condition":"USED",
+"price": 200
+},
+{
+"catagory":"labtop",
+"itemNo": 3,
+"productname":"Dell",
+"condition":"new",
+"price":600
+},
+{
+"catagory": "labtop",
+"itemNo": 4,
+"productname": "HP",
+"condition": "used",
+"price":120
+}
+]
